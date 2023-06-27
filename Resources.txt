@@ -1,0 +1,40 @@
+Resources:
+
+<AI websites to generate the texts to compare>
+https://chat.openai.com/
+https://papago.naver.com/
+https://translate.google.com/
+
+<Orgiinal articles for iPhone15>
+"iPhone 15 is coming, and these features will be worth the wait"
+    https://9to5mac.com/2023/06/22/time-to-buy-iphone-15/
+    
+"New Apple Exclusive Reveals iPhone 15 Price Shock"
+    https://www.forbes.com/sites/gordonkelly/2023/06/24/apple-iphone-15-pro-max-price-increase-a17-chip-production-costs/?sh=4ec07f5c1f06
+    
+"iPhone 15 release date predictions: when will Apple’s next iPhones arrive?"
+    https://www.techradar.com/news/iphone-15-release-date
+    
+"iPhone 15 Pro Max: Everything you need to know about Apple’s 2023 flagship"
+    https://www.macworld.com/article/1487037/iphone-15-pro-max-ultra-design-display-camera-price-rumors.html
+    
+"iPhone 15: What to Expect From Apple's Next iPhone"
+    https://www.cnet.com/tech/mobile/iphone-15-what-to-expect-from-apple-next-iphone/
+    
+"iPhone 15 Pro: latest news, rumors and everything we know so far"
+    https://www.techradar.com/news/iphone-15-pro-latest-news-rumors-and-everything-we-know-so-far
+    
+<List of Specs of iPhone15 to generate a news article by chat GPT>
+https://www.phonearena.com/phones/Apple-iPhone-15_id11927
+
+<DMV handbook>
+https://www.ketabton.com/books/1318/read
+
+https://www.dmvcalifornia.us/wp-content/uploads/2018/02/california-driver-handbook-korean.pdf
+
+<Aegukga lyrics>
+https://www.mois.go.kr/eng/sub/a03/nationalSymbol_2/screen.do
+
+<Love letter samples>
+https://www.lovetoknow.com/life/relationships/passionate-love-letters
+https://www.writeexpress.com/love.htm

@@ -1,0 +1,19 @@
+While iPhone 15 leaks have uncovered most of Apple’s biggest upgrades, questions remain about the cost of the new lineup, with Pro models expected to increase in price. But now there is a dramatic twist.
+
+In a shock move, Apple will allegedly downgrade the manufacturing process for the iPhone 15 Pro and Pro Max’s new A17 chipset, making the chip less efficient but more affordable to produce. The news comes via popular Weibo poster Cell Phone Chip Expert, who has amassed almost 400,000 followers due to a solid track record of chip production leaks.
+
+"The A17 used in stock this year's iPhone 15 Pro and iPhone 15 Pro Max is an N3B process, but the A17 produced at some point next year will be switched to a cost-reducing N3E process, which may be less efficient," the leaker explains.
+
+TSMC makes Apple’s chipsets, and N3B is the company’s bleeding edge, three nanometer (3nm) chip fabrication process. TSMC claims it consumes up to 35% less power while providing better performance than the 5nm A16 chips in the iPhone 14 Pro and Pro Max.
+
+Like N3B, the N3E manufacturing process is still 3nm but has a reduced logic density, making it easier to make, resulting in higher chip yields and lower production costs. The downside is the reduced logic density means the chips have a higher power draw, potentially impacting battery life.
+
+But the real shock for me is the timing. The leaker states that the move will happen in 2024, which would be midcycle for the iPhone 15 lineup, given the new range will launch in September 2023. While it is not unusual for Apple to switch component manufacturers midcycle, it would be highly unusual for the core chip to switch processes.
+
+That said, the transition was endorsed by my contacts, who also said any cost savings for Apple are highly unlikely to be passed down to customers, and price increases for the iPhone 15 Pro and Pro Max are still expected.
+
+Looking for a silver lining? If I had to take a guess, I suspect the chip switch could be in preparation for the iPhone 16 and iPhone 16 Plus rather than midcycle replacements for the iPhone 15 Pro and Pro Max. In recent years, Apple has established a pattern for using last year’s Pro tech in the next generation’s standard models, and finding a cheaper way to make the A17 chip for the iPhone 16 and iPhone 16 Plus in 2024 would make a lot of sense.
+
+Either way, it looks like customers will be paying more for the iPhone 15 Pro and Pro Max this year, regardless of any potential midcycle production cost savings. In return, buyers can expect an updated super thin bezel design, improved cameras and a new, customizable Action Button, while the whole range will move to USB-C.
+
+Will it be enough to tempt upgraders? Leakers and analysts disagree, with one prominent leaker calling the iPhone 15 range “too mediocre of an upgrade,” while analysts expect record sales. How Apple’s famously loyal fans react remains to be seen.

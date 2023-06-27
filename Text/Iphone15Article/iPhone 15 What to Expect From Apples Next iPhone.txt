@@ -1,0 +1,48 @@
+Even with the announcement of Apple's new augmented reality headset, anticipation (and rumors) haven't dampened for the fall release of Apple's next iPhone, presumably called the iPhone 15. Those rumors, plus last year's EU ruling mandating USB-C charging on phones sold within Europe, might mean a number of departures from Apple's traditional design. Will the iPhone 15 have a USB-C port? Will Apple increase iPhone prices in 2023? Will it even be called the "iPhone 15"? No one outside of Apple knows for sure, but these reports will certainly feed our curiosity until Apple throws the next iPhone event (probably in September). Here are some of the biggest and most credible rumors we've seen so far, to paint a picture of what we may see from the iPhone 15. 
+
+iPhone 15: Upgraded Ultra Wideband
+According to noted Apple analyst Ming Chi Kuo, the iPhone 15 will run on an upgraded Ultra Wideband processor, which Apple calls the U1 chip, to better integrate with the company's new AR headset, the Vision Pro. UWB is a short-range wireless communication standard often used to track down the location of objects. It can pinpoint your Apple AirTag or unlock your car as you walk up to it with your phone. In a recent post on Twitter, Kuo said this is all part of Apple's broader strategy to "build a more competitive ecosystem for Vision Pro."
+
+iPhone 15: Wireless charging upgrade
+According to a May report by ChargerLab, a power specialist website with a steady track record, all iPhone 15 models will support 15W wireless charging using the Qi2 open standard. If this turns out to be true, it'll mean the iPhone 15 could open up a whole new world of wireless charging devices that can replenish the device at its full speed. Apple had previously limited open wireless charging standards to 7.5W, leaving the full 15W charge speed for Apple MagSafe licensed accessories. 
+
+iPhone 15 camera: Periscope-style telephoto lens arrives
+Noted Apple observer Ming-Chi Kuo, an analyst with TF International Securities, forecasts that the iPhone 15 Pro Max will receive a periscope-style telephoto lens. This sort of telephoto lens allows for higher optical zoom levels, with Kuo forecasting a 6x optical zoom could arrive in the iPhone 15 Pro Max. The optical zoom on the iPhone 14 Pro Max is limited to 3x, which lags rivals such as the Samsung Galaxy S22 Ultra's 10x optical zoom. This rumor was recently bolstered by well-known leak source and Twitter user Unknownz21, who stated that the Pro Max model will come with the special lens.
+
+iPhone 15 design: Hello USB-C, goodbye Lightning
+This one has been in the rumor mill for years now, but in 2023 the switch from a Lightning Port to a USB-C port could finally happen. That's possibly due to pressure from the European Union, which has been pushing for a common charging standard for years. In 2022, the bloc managed to pass legislation requiring Apple to equip its iPhones with USB-C ports by 2024 if it wants to sell them in the EU. 
+
+The question is whether Apple will switch all iPhone models to USB-C or just those sold in the EU. Apple already modifies iPhone models regionally, as it has done with the iPhone 14: The US version has an electronic SIM, while other variants retain the SIM slot. However, there are good reasons to move all iPhones to USB-C moving forward, according to Avi Greengart, analyst at Techsponential.
+
+"There are larger ecosystem, security, and accessory considerations with the power/data connector, so I think it is more likely that Apple moves all iPhones [globally] to USB-C in the iPhone 16 timeframe to comply with European regulations," he told CNET in an email. 
+
+iPhone 15 design: Dynamic Island expands to all models
+Apple is likely to continue selling four iPhone models with the iPhone 15 lineup. Rumors point to a generally similar design across the board, except that the iPhone 14 Pro's shape-shifting cutout, known as Dynamic Island, is set to make its way across all models. 
+
+That rumor comes from display analyst Ross Young, who also said in a September tweet that he's not expecting base iPhone 15 models to have a higher refresh rate like Apple's Pro iPhones because the supply chain can't support it. 
+
+iPhone 15: Solid-state buttons come to pro iPhone 15 models
+Yet another Kuo prediction has been making the rounds, but this time the analyst expects Apple to differentiate further between its base and Pro models in the coming years. One way he's expecting that to happen is by giving the iPhone 15 Pro models solid-state volume and power buttons instead of the standard keys present on today's devices, he wrote in a tweet in October.
+
+The solid-state buttons, which Kuo says will be similar to the home button found on the iPhone SE and iPhone 7, mimic the tactile feel of pressing a button with the help of haptic feedback. The apparent advantage of this type of button is that it also protects against water getting in. 
+
+iPhone 15 Power: Increased RAM for pro models
+According to Taiwanese research firm TrendForce, Pro models of the iPhone 15 lineup will get a bump up in RAM to 8GB from 6GB to complement the anticipated A17 Bionic chipset. Base models will continue to receive 6GB RAM, according to TrendForce. This rumor is also apparently backed up by a research report from analyst Jeff Pu of Haitong International Securities, according to a MacRumors article, which referenced Pu's report.
+
+iPhone 15 price: Up, up and away?
+Prices have dramatically increased since the original iPhone arrived in 2007. And that may happen again in 2023 with the iPhone 15, except not in the way you might think. The price of the regular iPhone 15 is currently expected to remain the same, according to analysts who previously spoke with CNET. 
+
+However, the upper limit of the price range could be pushed higher if rumors about a luxe iPhone 15 Ultra turn out to be true. The rumored Ultra model could potentially replace the iPhone 15 Pro Max next year, Bloomberg's Mark Gurman writes. This falls in line with predictions from Kuo, who expects Apple to differentiate further between the iPhone Pro and iPhone Pro Max models. However, other rumors suggest that the iPhone 15 Ultra as a step up from the iPhone 15 Pro Max. US prices currently range from $829 for the entry-level iPhone 14 model (128GB) all the way up to $1,599 for the highest-end iPhone 14 Pro Max with 1TB of storage. According to tipster Revengus, the iPhone 15 Ultra will feature a telephoto camera with a variable zoom lens, which is the camera setup rumored to feature on Samsung's Galaxy S24 Ultra.
+
+iPhone 15 Ultra camera: Variable zoom
+According to tipster Revengus, the iPhone 15 Ultra will feature a telephoto camera with a variable zoom lens, which is the camera setup rumored to feature on Samsung's Galaxy S24 Ultra. Variable optical zoom (continuous zoom) cameras aren't commonly found on smartphones for a variety of reasons, including the fact that the size and design of phone cameras restricts the type of lenses that can be used.
+
+iPhone 15: Launch and release timeline
+Apple holds its annual iPhone event in September almost every year, so we'd expect the timeline to remain the same for the iPhone 15. New iPhones typically get released shortly thereafter, usually the Friday of the following week. Sometimes Apple will stagger release dates for specific models, especially when introducing a new design or size. So it's possible that the iPhone 15 lineup will have more than one release date.
+
+Here's what we know: 
+
+Apple tends to hold its events on Tuesdays or Wednesdays. Apple's iPhone 14 event was held on Wednesday Sept. 7, while its iPhone 13 event was held on Tuesday, Sept. 14.
+iPhone release dates are typically a week and a half after Apple's announcements. 
+In general, new iPhones are released on a Friday, around the third week of September. For the iPhone 13, preorders began Sept. 17 and the phones went on sale Sept. 24.
+Looking for more iPhone advice? Check out our iPhone upgrade guide, our list of the best iPhones and our roundup of the best cases for your iPhone 14 or 14 Pro.
